@@ -1,142 +1,132 @@
-<h1 align="center">Hi, I'm Deepak Pandey 👋</h1>
+<h1 align="center">Deepak Pandey</h1>
 
 <p align="center">
-Data Engineering • Machine Learning • MLOps • Scalable Analytics Systems
+Engineer focused on Data Systems, Machine Learning, and Scalable Backend Solutions
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=800&lines=I+build+end-to-end+data+and+ML+systems;From+raw+data+to+production-ready+solutions;Snowflake+%7C+Python+%7C+SQL+%7C+MLOps;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=900&lines=Building+real-world+data+and+ML+systems;From+pipelines+to+production+deployments;Snowflake+%7C+Python+%7C+SQL+%7C+MLOps;Always+improving+through+hands-on+work" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning  
-📍 Technocrats Institute of Technology, Bhopal  
+I’m a B.Tech AIML graduate who started with Machine Learning and gradually moved deeper into the systems behind it — data pipelines, warehousing, automation, deployment, and production reliability.
 
-I started with Machine Learning, but while building real projects I realized that strong models need strong data systems.
+Today, I enjoy building end-to-end solutions where data, engineering, and business impact meet.
 
-That curiosity pulled me into **Data Engineering, Warehousing, ETL pipelines, and MLOps**.
+My strongest learning style is simple:
 
-Now I enjoy building systems end-to-end — from raw data ingestion to analytics dashboards to production-ready ML workflows.
-
-I value practical learning, fundamentals, and solving real problems through engineering.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql)
-![PLSQL](https://img.shields.io/badge/PLSQL-111?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
-
-### Data Engineering
-![Snowflake](https://img.shields.io/badge/Snowflake-111?style=for-the-badge&logo=snowflake)
-![Databricks](https://img.shields.io/badge/Databricks-111?style=for-the-badge&logo=databricks)
-![ETL](https://img.shields.io/badge/ETL%2FELT-111?style=for-the-badge)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-111?style=for-the-badge)
-
-### ML / MLOps
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=for-the-badge&logo=scikitlearn)
-![MLflow](https://img.shields.io/badge/MLflow-111?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=for-the-badge&logo=githubactions)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
-![Azure](https://img.shields.io/badge/Azure-111?style=for-the-badge&logo=microsoftazure)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+- understand fundamentals deeply  
+- build practical systems  
+- improve through iteration  
+- stay consistent
 
 ---
 
-## 📌 Featured Projects
+## Core Strengths
 
-### 🔹 Network Security System with MLOps Pipeline
-End-to-end ML system for threat detection with automated training, deployment, CI/CD, Docker, logging, and scalable workflows.
+- Data Engineering  
+- ETL / ELT Pipelines  
+- Snowflake Warehousing  
+- Machine Learning Systems  
+- MLOps Foundations  
+- SQL / PL-SQL  
+- Backend APIs  
+- Problem Solving
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,docker,azure,fastapi" />
+</p>
+
+`SQL` `PL/SQL` `Snowflake` `Databricks` `MLflow` `Scikit-Learn`
+
+---
+
+## Featured Work
+
+### Network Security System (MLOps + ETL)
+
+Production-style ML pipeline for network threat detection with training automation, Dockerized deployment, CI/CD workflows, monitoring, and structured pipeline design.
 
 🔗 https://github.com/28Deepakpandey/Network-Security-System-MLOps-Project-with-ETL-
 
 ---
 
-### 🔹 Snowflake Sales Analytics Data Warehouse
-Layered architecture using RAW → STAGING → REPORTING with Streams, Tasks, Stored Procedures, incremental pipelines, and analytics-ready models.
+### Snowflake Sales Analytics Warehouse
+
+Built layered warehouse architecture (RAW → STAGING → REPORTING), incremental pipelines using Streams & Tasks, dimensional modeling, and analytics-ready reporting structures.
 
 🔗 https://github.com/28Deepakpandey/Snowflake-data-warehouse-for-sales-analytics
 
 ---
 
-### 🔹 Recommendation Engine
-Content-based recommendation system using TF-IDF, cosine similarity, NLP preprocessing, and Top-N recommendations.
+### Recommendation Engine
+
+Content-based recommendation system using TF-IDF, cosine similarity, and NLP preprocessing for Top-N recommendations.
 
 🔗 https://github.com/28Deepakpandey/recommendation-system
 
 ---
 
-### 🔹 Student Academic Performance Prediction
-ML project focused on predictive modeling and educational performance insights.
+### Database Systems (OLTP)
 
-🔗 https://github.com/28Deepakpandey/Student-Academic-Performance-Prediction-System-ML-Project-
-
----
-
-### 🔹 OLTP Systems using PL/SQL
-Built transactional systems with stored procedures, triggers, ACID-compliant workflows.
-
-- Bank Account Management System  
-- Employee Payroll Management System
+Designed transactional systems using PL/SQL with stored procedures, triggers, validation logic, and testing workflows.
 
 🔗 https://github.com/28Deepakpandey/PL_SQL-LAB
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📚 Current Focus
+## Current Direction
 
-- Advanced Data Engineering  
-- Production-grade ETL Pipelines  
-- Distributed Data Systems  
+Currently focused on growing into roles involving:
+
+- Data Engineering  
+- Backend Engineering  
 - Cloud Data Platforms  
-- Strong Software Engineering Fundamentals  
+- Production ML Systems  
+- Strong Software Engineering Fundamentals
 
 ---
 
-## 🌱 Beyond Tech
+## Beyond Code
 
-- Reading novels and poetry  
-- Inspired by Premchand, Ramdhari Singh Dinkar, Dharmveer Bharti  
-- Enjoy learning deeply rather than superficially  
-- Believe consistency beats hype  
+I enjoy reading novels and poetry. Writers like Premchand, Dinkar, and Dharmveer Bharti shaped how I think about depth, discipline, and perspective.
+
+I respect people who build quietly and consistently.
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
-📧 deepakpandey28july@gmail.com  
+📧 deepakpandey28july@gmail.com
 
-💼 LinkedIn:  
+🔗 LinkedIn  
 https://www.linkedin.com/in/deepak-pandey28/
 
-🌐 GitHub:  
+🔗 GitHub  
 https://github.com/28Deepakpandey
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=28Deepakpandey&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=28Deepakpandey&label=Visitors&style=flat-square" />
 </p>
