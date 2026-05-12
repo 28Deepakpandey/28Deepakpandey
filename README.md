@@ -1,34 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=190&section=header&text=Deepak%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20Data%20Engineering&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+ML+systems+that+actually+ship;From+raw+data+to+reliable+deployment;Python+%7C+Snowflake+%7C+FastAPI+%7C+Docker;Always+learning+something+new" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Data%20Engineering-0d1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Deepak%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Engineer%20%7C%20MLOps&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=190&section=header&text=Deepak%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20Data%20Engineering&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+ML+systems+that+actually+ship;From+raw+data+to+reliable+deployment;Python+%7C+Snowflake+%7C+FastAPI+%7C+Docker;Always+learning+something+new" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Data%20Engineering-0d1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+actually+ship+to+production;Raw+data+in.+Deployed+model+out.+Everything+in+between.;MongoDB+%E2%86%92+ETL+%E2%86%92+Train+%E2%86%92+Docker+%E2%86%92+AWS.+Done.;700%2B+problems+solved.+Still+going.)](https://git.io/typing-svg)
 
 </div>
 
