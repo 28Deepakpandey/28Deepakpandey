@@ -14,7 +14,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+ML+systems+that+actually+ship;From+raw+data+to+reliable+deployment;Python+%7C+Snowflake+%7C+FastAPI+%7C+Docker;Always+learning+something+new" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
@@ -22,21 +22,30 @@
 
 </div>
 
-<details open>
-<summary><strong>Snapshot</strong></summary>
+---
 
-<p align="center">
+## Snapshot
 
-<strong>Focus</strong> · Machine Learning · MLOps · Data Engineering<br/>
-<strong>Building</strong> · Raw Data → Pipelines → Trained Models → Production Systems<br/>
-<strong>Core Stack</strong> · Python · Scikit-learn · XGBoost · Snowflake · SQL · PL/SQL · MongoDB · FastAPI · Docker · GitHub Actions<br/>
-<strong>Currently</strong> · Final Year B.Tech AI & ML @ TIT Bhopal · Graduating 2026<br/>
-<strong>Open To</strong> · ML Engineer · Data Engineer · MLOps Engineer<br/>
-<strong>Beyond Tech</strong> · Hindi Literature · Reading English Books · Podcasts · Long Debugging Sessions
+### Focus Areas
+Machine Learning • MLOps • Data Engineering
 
-</p>
+### What I Build
+Raw Data → ETL Pipelines → Model Training → APIs → Cloud Deployment
 
-</details>
+### Core Stack
+Python • Scikit-learn • XGBoost • Snowflake • SQL • PL/SQL  
+MongoDB • FastAPI • Docker • GitHub Actions • AWS • Azure
+
+### Current Status
+Final Year B.Tech AI & ML @ TIT Bhopal  
+Graduating 2026
+
+### Open To
+ML Engineer • Data Engineer • MLOps Engineer • Software Engineering Roles
+
+### Beyond Tech
+Hindi Literature • Reading English Books • Podcasts  
+Long Debugging Sessions • Learning New Systems
 
 ---
 
