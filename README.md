@@ -10,9 +10,8 @@
 
 </div>
 
----
 
-python
+```python
 deepak = {
     "focus"     : ["Machine Learning", "MLOps", "Data Engineering"],
     "building"  : "end-to-end systems — model training to production deployment",
@@ -21,9 +20,10 @@ deepak = {
     "open_to"   : "ML Engineer / Data Engineer / MLOps roles",
     "outside"   : "Hindi poetry (Dinkar, Premchand) and long debugging sessions",
 }
+```
+ 
 
 
----
 
 ## About
 
