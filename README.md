@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -53,7 +53,6 @@ Built a full MLOps system for network threat detection — MongoDB as data lake,
 
 Currently looking for a full-time role. Open to ML, data engineering, or MLOps.
 
----
 
 ## Tech Stack
 
