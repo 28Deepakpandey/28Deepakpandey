@@ -128,6 +128,17 @@ OLTP schema in Oracle PL/SQL — stored procedures, triggers, and functions auto
 ---
 
 ## GitHub Stats
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 <div align="center">
 
