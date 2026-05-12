@@ -11,48 +11,51 @@
 </div>
 
 ---
- 
-```python
-class DeepakPandey:
 
-    def __init__(self):
-        self.focus = [
-            "Machine Learning",
-            "MLOps",
-            "Data Engineering"
-        ]
+## Snapshot
 
-        self.builds = "end-to-end systems: data → training → deployment"
+<table>
+<tr>
+<td><strong>Focus</strong></td>
+<td>Machine Learning • MLOps • Data Engineering</td>
+</tr>
 
-        self.stack = {
-            "ml": ["Scikit-learn", "XGBoost", "Pandas", "NumPy"],
-            "data": ["Snowflake", "SQL", "MongoDB"],
-            "infra": ["Docker", "FastAPI", "GitHub Actions", "AWS"]
-        }
+<tr>
+<td><strong>Building</strong></td>
+<td>End-to-end systems: raw data → training → deployment</td>
+</tr>
 
-        self.current = "B.Tech AIML @ TIT Bhopal (2026)"
-        self.open_to = ["ML Engineer", "Data Engineer", "MLOps Engineer"]
+<tr>
+<td><strong>Core Stack</strong></td>
+<td>Python • Scikit-learn • XGBoost • Snowflake • SQL • Docker • FastAPI</td>
+</tr>
 
-        self.other = [
-            "Hindi literature (Dinkar, Premchand)",
-            "debugging things longer than expected"
-        ]
+<tr>
+<td><strong>Currently</strong></td>
+<td>Final Year B.Tech AI & ML @ TIT Bhopal (2026)</td>
+</tr>
 
-    def build(self):
-        return "take raw data → turn it into something reliable → make it run in production"
-```
- 
+<tr>
+<td><strong>Open To</strong></td>
+<td>ML Engineer • Data Engineer • MLOps Engineer</td>
+</tr>
+
+<tr>
+<td><strong>Beyond Tech</strong></td>
+<td>Hindi literature • Long debugging sessions • Constant learning</td>
+</tr>
+</table>
+
 ---
-
 
 
 ## About
 
-I started in ML — models, experiments, feature engineering. What pulled me deeper was everything *around* the model. How does data get there cleanly? How does the model actually run in production without breaking a week later? How do you build something that works on Monday and still works on Friday?
+I started in ML — models, experiments, feature engineering. What pulled me deeper was everything *around* the model. How does data get there cleanly? How does the model actually run in production without breaking a week later? How do we build something that works on Monday and still works on Friday?
 
 That's where I've spent most of my time: pipelines, warehouses, CI/CD, APIs. Not just training models but shipping them.
 
-Built a full MLOps system for network threat detection — MongoDB as data lake, automated ETL, XGBoost training with MLflow tracking, FastAPI serving, Dockerized and deployed to AWS EC2 via GitHub Actions. Built a Snowflake warehouse with layered ELT and incremental pipelines. Built an Oracle PL/SQL OLTP system with its own custom unit testing framework. Along the way I also mentored 30+ students at Skoolam NGO — turns out explaining a concept clearly is harder than building it.
+Built a full MLOps system for network threat detection — MongoDB as data lake, automated ETL, XGBoost training with MLflow tracking, FastAPI serving, Dockerized and deployed to AWS EC2 via GitHub Actions. Built a Snowflake warehouse with layered ELT and incremental pipelines. Built an Oracle PL/SQL OLTP system with its own custom unit testing framework. Along the way I also mentored students at Skoolam NGO — turns out explaining a concept clearly is harder than building it.
 
 Currently looking for a full-time role. Open to ML, data engineering, or MLOps.
 
@@ -124,18 +127,19 @@ OLTP schema in Oracle PL/SQL — stored procedures, triggers, and functions auto
 
 ---
 
-## Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -148,7 +152,7 @@ OLTP schema in Oracle PL/SQL — stored procedures, triggers, and functions auto
 | Microsoft Azure Fundamentals (AZ-900) | Certified |
 | McKinsey Forward Learning Program | Completed |
 | Competitive Programming | 700+ — LeetCode, GFG, Codeforces, CodeChef |
-| Skoolam NGO | Mentored 30+ students in problem-solving |
+| Skoolam NGO | Mentored students in problem-solving |
 | College Fest | Coordinated operations for 5,000+ attendees |
 
 ---
