@@ -137,6 +137,12 @@ OLTP schema in Oracle PL/SQL — stored procedures, triggers, and functions auto
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark&hide_border=true" />
+
+</div>
+
 ---
 
 ## Other
