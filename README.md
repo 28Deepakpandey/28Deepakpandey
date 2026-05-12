@@ -16,74 +16,37 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="48%" valign="top">
+### Building systems from raw data to production-ready ML solutions
 
-### Focus
-Machine Learning  
-MLOps  
-Data Engineering
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+MLOps+%7C+Data+Engineering;Pipelines+%E2%86%92+Models+%E2%86%92+Deployment;Always+learning+new+tools+and+systems" />
 
-</td>
-
-<td width="48%" valign="top">
-
-### Building
-Raw Data → Pipelines  
-→ Trained Models  
-→ Production Systems
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Core Stack
-Python • Scikit-learn • XGBoost  
-Snowflake • SQL • Docker  
-FastAPI • GitHub Actions
-
-</td>
-
-<td valign="top">
-
-### Currently
-Final Year B.Tech AI & ML  
-TIT Bhopal  
-Graduating 2026
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Open To
-ML Engineer  
-Data Engineer  
-MLOps Engineer
-
-</td>
-
-<td valign="top">
-
-### Beyond Tech
-Literature Books  
-Watching Podcasts  
-Long Debugging Sessions  
-Learning New Systems
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ML+systems+that+actually+ship;From+raw+data+to+reliable+deployment;Always+learning+something+new" />
+### Focus Areas
 
-</div>
+`Machine Learning` `MLOps` `Data Engineering`
+
+### Building
+
+Raw Data → ETL Pipelines → Trained Models → APIs → Production Deployment
+
+### Core Stack
+
+`Python` `Scikit-learn` `XGBoost` `Snowflake` `SQL` `Docker` `FastAPI` `GitHub Actions`
+
+### Currently
+
+Final Year B.Tech AI & ML @ TIT Bhopal • Graduating 2026
+
+### Open To
+
+`ML Engineer` `Data Engineer` `MLOps Engineer`
+
+### Beyond Tech
+
+Hindi Literature • Reading English Books • Podcasts • Long Debugging Sessions
 
 ---
 
