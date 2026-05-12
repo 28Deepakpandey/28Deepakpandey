@@ -14,37 +14,69 @@
 
 ## Snapshot
 
+<div align="center">
+
 <table>
 <tr>
-<td><strong>Focus</strong></td>
-<td>Machine Learning • MLOps • Data Engineering</td>
+<td align="center" width="160"><strong>Focus</strong></td>
+<td align="left">
+
+Machine Learning • MLOps • Data Engineering
+
+</td>
 </tr>
 
 <tr>
-<td><strong>Building</strong></td>
-<td>End-to-end systems: raw data → training → deployment</td>
+<td align="center"><strong>Building</strong></td>
+<td align="left">
+
+Raw Data → Pipelines → Trained Models → Production Systems
+
+</td>
 </tr>
 
 <tr>
-<td><strong>Core Stack</strong></td>
-<td>Python • Scikit-learn • XGBoost • Snowflake • SQL • Docker • FastAPI</td>
+<td align="center"><strong>Core Stack</strong></td>
+<td align="left">
+
+Python • Scikit-learn • XGBoost • Snowflake • SQL • Docker • FastAPI • GitHub Actions
+
+</td>
 </tr>
 
 <tr>
-<td><strong>Currently</strong></td>
-<td>Final Year B.Tech AI & ML @ TIT Bhopal (2026)</td>
+<td align="center"><strong>Currently</strong></td>
+<td align="left">
+
+Final Year B.Tech AI & ML @ TIT Bhopal • Graduating 2026
+
+</td>
 </tr>
 
 <tr>
-<td><strong>Open To</strong></td>
-<td>ML Engineer • Data Engineer • MLOps Engineer</td>
+<td align="center"><strong>Open To</strong></td>
+<td align="left">
+
+ML Engineer • Data Engineer • MLOps Engineer
+
+</td>
 </tr>
 
 <tr>
-<td><strong>Beyond Tech</strong></td>
-<td>Hindi literature • Long debugging sessions • Constant learning</td>
+<td align="center"><strong>Beyond Tech</strong></td>
+<td align="left">
+
+Hindi Literature • Long Debugging Sessions • Learning New Systems
+
+</td>
 </tr>
 </table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+ML+systems+that+actually+ship;From+raw+data+to+reliable+deployment;Always+learning+something+new" />
+
+</div>
 
 ---
 
@@ -61,9 +93,9 @@ Currently looking for a full-time role. Open to ML, data engineering, or MLOps.
 
 ---
 
-## Tech
+## Tech Stack
 
-**ML / Modeling**
+### Machine Learning / AI
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58A6FF)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
@@ -71,24 +103,39 @@ Currently looking for a full-time role. Open to ML, data engineering, or MLOps.
 ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194E2)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58A6FF)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABF7)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
 
-**Data Engineering**
+### Data Engineering / Databases / Analytics
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=flat-square&logo=snowflake&logoColor=29B5E8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
-![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
+![PLSQL](https://img.shields.io/badge/PL%2FSQL-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
+![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=microsoftexcel&logoColor=217346)
 
-**DevOps & Deployment**
+### Backend / Deployment / MLOps
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![AWS](https://img.shields.io/badge/AWS_ECR%2FEC2-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure_AZ--900-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+
+### Programming / Core CS
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![OOP](https://img.shields.io/badge/OOP-0d1117?style=flat-square&logo=codeforces&logoColor=58A6FF)
+![DBMS](https://img.shields.io/badge/DBMS-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![OS](https://img.shields.io/badge/Operating_Systems-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![SDLC](https://img.shields.io/badge/SDLC-0d1117?style=flat-square&logo=gitlab&logoColor=FC6D26)
 
 ---
+
 
 ## Projects
 
@@ -127,13 +174,10 @@ OLTP schema in Oracle PL/SQL — stored procedures, triggers, and functions auto
 
 ---
 
-## GitHub Stats
----
-
-## GitHub Stats
+## Stats
 
 <div align="center">
-
+  
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=github_dark&hide_border=true" />
@@ -142,11 +186,12 @@ OLTP schema in Oracle PL/SQL — stored procedures, triggers, and functions auto
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ---
+
 
 ## Other
 
