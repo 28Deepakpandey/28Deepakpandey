@@ -12,28 +12,40 @@
 
 ---
 
-## Snapshot
+<div align="center">
 
-### Focus Areas
-Machine Learning • MLOps • Data Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=180&section=header&text=Deepak%20Pandey&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20Data%20Engineer&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
-### What I Build
-Raw Data → ETL Pipelines → Model Training → APIs → Cloud Deployment
+<br>
 
-### Core Stack
-Python • Scikit-learn • XGBoost • Snowflake • SQL • PL/SQL  
-MongoDB • FastAPI • Docker • GitHub Actions • AWS • Azure
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+ML+systems+that+ship;Raw+data+%E2%86%92+training+%E2%86%92+deployment;Python+%7C+Snowflake+%7C+FastAPI+%7C+Docker" />
 
-### Current Status
-Final Year B.Tech AI & ML @ TIT Bhopal  
-Graduating 2026
+</div>
 
-### Open To
-ML Engineer • Data Engineer • MLOps Engineer • Software Engineering Roles
+<br>
 
-### Beyond Tech
-Hindi Literature • Reading English Books • Podcasts  
-Long Debugging Sessions • Learning New Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-0d1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8" />
+</p>
+
+<p align="center">
+Building end-to-end systems with a focus on clean pipelines, reliable model deployment, and practical engineering.
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=28Deepakpandey&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+### Now
+`Machine Learning` · `MLOps` · `Data Engineering` · `Python` · `SQL`
+
+### Building
+Raw Data → Pipelines → Trained Models → Production Systems
+
+### Exploring
+`English books` · `Podcasts` · `Hindi literature` · `Long debugging sessions`
 
 ---
 
