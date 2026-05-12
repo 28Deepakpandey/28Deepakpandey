@@ -10,18 +10,39 @@
 
 </div>
 
-
+---
+ 
 ```python
-deepak = {
-    "focus"     : ["Machine Learning", "MLOps", "Data Engineering"],
-    "building"  : "end-to-end systems — model training to production deployment",
-    "stack"     : ["Python", "Snowflake", "Scikit-learn", "Docker", "FastAPI", "SQL"],
-    "currently" : "Final year B.Tech AI & ML @ TIT Bhopal  |  Graduating 2026",
-    "open_to"   : "ML Engineer / Data Engineer / MLOps roles",
-    "outside"   : "Hindi poetry (Dinkar, Premchand) and long debugging sessions",
-}
+class DeepakPandey:
+
+    def __init__(self):
+        self.focus = [
+            "Machine Learning",
+            "MLOps",
+            "Data Engineering"
+        ]
+
+        self.builds = "end-to-end systems: data → training → deployment"
+
+        self.stack = {
+            "ml": ["Scikit-learn", "XGBoost", "Pandas", "NumPy"],
+            "data": ["Snowflake", "SQL", "MongoDB"],
+            "infra": ["Docker", "FastAPI", "GitHub Actions", "AWS"]
+        }
+
+        self.current = "B.Tech AIML @ TIT Bhopal (2026)"
+        self.open_to = ["ML Engineer", "Data Engineer", "MLOps Engineer"]
+
+        self.other = [
+            "Hindi literature (Dinkar, Premchand)",
+            "debugging things longer than expected"
+        ]
+
+    def build(self):
+        return "take raw data → turn it into something reliable → make it run in production"
 ```
  
+---
 
 
 
