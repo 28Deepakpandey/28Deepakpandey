@@ -14,14 +14,6 @@
 
 ## Snapshot
 
-<div align="center">
-
-### Building systems from raw data to production-ready ML solutions
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+MLOps+%7C+Data+Engineering;Pipelines+%E2%86%92+Models+%E2%86%92+Deployment;Always+learning+new+tools+and+systems" />
-
-</div>
-
 <br>
 
 ### Focus Areas
@@ -32,13 +24,9 @@
 
 Raw Data → ETL Pipelines → Trained Models → APIs → Production Deployment
 
-### Core Stack
-
-`Python` `Scikit-learn` `XGBoost` `Snowflake` `SQL` `Docker` `FastAPI` `GitHub Actions`
-
 ### Currently
 
-Final Year B.Tech AI & ML @ TIT Bhopal • Graduating 2026
+Final Year B.Tech AI & ML • Graduating 2026
 
 ### Open To
 
