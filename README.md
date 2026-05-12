@@ -6,41 +6,37 @@
 
 ---
 
-## Snapshot
-
 <div align="center">
 
-### Building systems from raw data to production-ready ML solutions
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=190&section=header&text=Deepak%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20Data%20Engineering&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+MLOps+%7C+Data+Engineering;Pipelines+%E2%86%92+Models+%E2%86%92+Deployment;Always+learning+new+tools+and+systems" />
+<br><br>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+ML+systems+that+actually+ship;From+raw+data+to+reliable+deployment;Python+%7C+Snowflake+%7C+FastAPI+%7C+Docker;Always+learning+something+new" />
 
 <br>
 
-### Focus Areas
+<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Data%20Engineering-0d1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8" />
 
-`Machine Learning` `MLOps` `Data Engineering`
+</div>
 
-### Building
+<details open>
+<summary><strong>Snapshot</strong></summary>
 
-Raw Data → ETL Pipelines → Trained Models → APIs → Production Deployment
+<p align="center">
 
-### Core Stack
+<strong>Focus</strong> · Machine Learning · MLOps · Data Engineering<br/>
+<strong>Building</strong> · Raw Data → Pipelines → Trained Models → Production Systems<br/>
+<strong>Core Stack</strong> · Python · Scikit-learn · XGBoost · Snowflake · SQL · PL/SQL · MongoDB · FastAPI · Docker · GitHub Actions<br/>
+<strong>Currently</strong> · Final Year B.Tech AI & ML @ TIT Bhopal · Graduating 2026<br/>
+<strong>Open To</strong> · ML Engineer · Data Engineer · MLOps Engineer<br/>
+<strong>Beyond Tech</strong> · Hindi Literature · Reading English Books · Podcasts · Long Debugging Sessions
 
-`Python` `Scikit-learn` `XGBoost` `Snowflake` `SQL` `Docker` `FastAPI` `GitHub Actions`
+</p>
 
-### Currently
-
-Final Year B.Tech AI & ML @ TIT Bhopal • Graduating 2026
-
-### Open To
-
-`ML Engineer` `Data Engineer` `MLOps Engineer`
-
-### Beyond Tech
-
-Hindi Literature • Reading English Books • Podcasts • Long Debugging Sessions
+</details>
 
 ---
 
