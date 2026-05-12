@@ -12,59 +12,41 @@
 
 ---
 
+## Snapshot
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a3a5c,100:58a6ff&height=140&section=header&text=Snapshot&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Quick%20look%20at%20what%20I%20build%20and%20what%20I%20use&descAlignY=60&descSize=15&descColor=8b949e" width="100%"/>
+### Building systems from raw data to production-ready ML solutions
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Machine+Learning+%7C+MLOps+%7C+Data+Engineering;Raw+Data+%E2%86%92+Pipelines+%E2%86%92+Models+%E2%86%92+Deployment;Reading+books%2C+listening+to+podcasts%2C+and+building+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+MLOps+%7C+Data+Engineering;Pipelines+%E2%86%92+Models+%E2%86%92+Deployment;Always+learning+new+tools+and+systems" />
 
 </div>
 
 <br>
 
-### Focus
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-0d1117?style=for-the-badge" />
-</p>
+### Focus Areas
+
+`Machine Learning` `MLOps` `Data Engineering`
 
 ### Building
-<p>
-  Raw Data → ETL Pipelines → Trained Models → APIs → Production Deployment
-</p>
+
+Raw Data → ETL Pipelines → Trained Models → APIs → Production Deployment
 
 ### Core Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=ff9800" />
-  <img src="https://img.shields.io/badge/Snowflake-0d1117?style=flat-square&logo=snowflake&logoColor=29B5E8" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-0d1117?style=flat-square&logo=oracle&logoColor=F80000" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
-</p>
+
+`Python` `Scikit-learn` `XGBoost` `Snowflake` `SQL` `Docker` `FastAPI` `GitHub Actions`
 
 ### Currently
-<p>
+
 Final Year B.Tech AI & ML @ TIT Bhopal • Graduating 2026
-</p>
 
 ### Open To
-<p>
-ML Engineer • Data Engineer • MLOps Engineer
-</p>
 
-### Beyond Tech
-<p>
-Hindi literature • Reading English books • Podcasts • Long debugging sessions • Learning new systems
-</p>
+`ML Engineer` `Data Engineer` `MLOps Engineer`
 
 ---
+
+
 ## About
 
 I started in ML — models, experiments, feature engineering. What pulled me deeper was everything *around* the model. How does data get there cleanly? How does the model actually run in production without breaking a week later? How do we build something that works on Monday and still works on Friday?
