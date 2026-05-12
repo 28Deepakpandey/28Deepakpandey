@@ -1,82 +1,96 @@
 <h1 align="center">Deepak Pandey</h1>
 
 <p align="center">
-Engineer focused on Data Systems, Machine Learning, and Scalable Backend Solutions
+Machine Learning • MLOps • Data Engineering • Scalable Systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=900&lines=Building+real-world+data+and+ML+systems;From+pipelines+to+production+deployments;Snowflake+%7C+Python+%7C+SQL+%7C+MLOps;Always+improving+through+hands-on+work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=950&lines=Building+Machine+Learning+solutions+end-to-end;From+data+pipelines+to+model+deployment;Python+%7C+Scikit-Learn+%7C+Snowflake+%7C+SQL;Learning+deeply.+Building+consistently." />
 </p>
 
 ---
 
-## About
+## About Me
 
-I’m a B.Tech AIML graduate who started with Machine Learning and gradually moved deeper into the systems behind it — data pipelines, warehousing, automation, deployment, and production reliability.
+I’m a B.Tech graduate in Artificial Intelligence & Machine Learning with strong interest in building practical ML systems that solve real problems.
 
-Today, I enjoy building end-to-end solutions where data, engineering, and business impact meet.
+While working on Machine Learning projects, I realized that successful models depend on reliable data pipelines, scalable infrastructure, and clean deployment workflows.
 
-My strongest learning style is simple:
+That led me to expand into **MLOps, Data Engineering, Warehousing, and backend systems**.
 
-- understand fundamentals deeply  
-- build practical systems  
-- improve through iteration  
-- stay consistent
+Today, I enjoy building complete solutions — from raw data to trained models to production deployment.
 
 ---
 
-## Core Strengths
+## Core Areas
 
-- Data Engineering  
-- ETL / ELT Pipelines  
-- Snowflake Warehousing  
-- Machine Learning Systems  
-- MLOps Foundations  
-- SQL / PL-SQL  
+- Machine Learning  
+- Applied Data Science  
+- MLOps Fundamentals  
+- Data Pipelines  
+- Model Deployment  
+- SQL & Databases  
 - Backend APIs  
-- Problem Solving
+- Analytics Systems
 
 ---
 
 ## Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,docker,azure,fastapi" />
-</p>
+### Languages
+`Python` `SQL` `PL/SQL` `C++`
 
-`SQL` `PL/SQL` `Snowflake` `Databricks` `MLflow` `Scikit-Learn`
+### Machine Learning / Data Science
+`Scikit-Learn` `Pandas` `NumPy` `EDA` `Feature Engineering` `Supervised Learning` `Unsupervised Learning`
+
+### MLOps / Deployment
+`Docker` `GitHub Actions` `MLflow` `FastAPI` `CI/CD`
+
+### Data Engineering / Warehousing
+`Snowflake` `ETL/ELT` `Streams` `Tasks` `Stored Procedures` `Data Modeling`
+
+### Cloud / Tools
+`Azure (AZ-900)` `Git` `GitHub` `Jupyter Notebook` `VS Code`
 
 ---
 
-## Featured Work
+## Featured Projects
 
-### Network Security System (MLOps + ETL)
+### Network Security System (ML + MLOps)
 
-Production-style ML pipeline for network threat detection with training automation, Dockerized deployment, CI/CD workflows, monitoring, and structured pipeline design.
+Built an end-to-end machine learning pipeline for network threat detection with preprocessing, feature engineering, model training, Dockerized deployment, CI/CD workflows, and monitoring.
 
 🔗 https://github.com/28Deepakpandey/Network-Security-System-MLOps-Project-with-ETL-
 
 ---
 
-### Snowflake Sales Analytics Warehouse
+### Recommendation System
 
-Built layered warehouse architecture (RAW → STAGING → REPORTING), incremental pipelines using Streams & Tasks, dimensional modeling, and analytics-ready reporting structures.
-
-🔗 https://github.com/28Deepakpandey/Snowflake-data-warehouse-for-sales-analytics
-
----
-
-### Recommendation Engine
-
-Content-based recommendation system using TF-IDF, cosine similarity, and NLP preprocessing for Top-N recommendations.
+Built content-based recommendation engine using TF-IDF, cosine similarity, NLP preprocessing, and Top-N recommendations.
 
 🔗 https://github.com/28Deepakpandey/recommendation-system
 
 ---
 
-### Database Systems (OLTP)
+### Student Performance Prediction
 
-Designed transactional systems using PL/SQL with stored procedures, triggers, validation logic, and testing workflows.
+Predictive ML system focused on academic performance analysis using supervised learning techniques.
+
+🔗 https://github.com/28Deepakpandey/Student-Academic-Performance-Prediction-System-ML-Project-
+
+---
+
+### Snowflake Sales Analytics Warehouse
+
+Designed scalable warehouse with layered architecture, incremental pipelines, and reporting-ready schemas.
+
+🔗 https://github.com/28Deepakpandey/Snowflake-data-warehouse-for-sales-analytics
+
+---
+
+### OLTP Database Systems
+
+Transactional systems using Oracle SQL / PL-SQL with procedures, triggers, validations, and structured testing.
 
 🔗 https://github.com/28Deepakpandey/PL_SQL-LAB
 
@@ -85,33 +99,31 @@ Designed transactional systems using PL/SQL with stored procedures, triggers, va
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Current Direction
+## Current Focus
 
-Currently focused on growing into roles involving:
-
-- Data Engineering  
-- Backend Engineering  
-- Cloud Data Platforms  
 - Production ML Systems  
+- MLOps Best Practices  
+- Advanced Machine Learning  
+- Data Engineering at Scale  
 - Strong Software Engineering Fundamentals
 
 ---
 
-## Beyond Code
+## Beyond Tech
 
-I enjoy reading novels and poetry. Writers like Premchand, Dinkar, and Dharmveer Bharti shaped how I think about depth, discipline, and perspective.
+I enjoy novels and poetry. Writers like Premchand, Dinkar, and Dharmveer Bharti have influenced how I think about discipline, perspective, and depth.
 
-I respect people who build quietly and consistently.
+I believe consistent effort compounds.
 
 ---
 
@@ -124,9 +136,3 @@ https://www.linkedin.com/in/deepak-pandey28/
 
 🔗 GitHub  
 https://github.com/28Deepakpandey
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=28Deepakpandey&label=Visitors&style=flat-square" />
-</p>
