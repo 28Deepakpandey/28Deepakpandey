@@ -14,8 +14,6 @@
 
 ## Snapshot
 
-<br>
-
 ### Focus Areas
 
 `Machine Learning` `MLOps` `Data Engineering`
