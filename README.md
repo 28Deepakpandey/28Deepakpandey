@@ -5,134 +5,72 @@ Machine Learning • MLOps • Data Engineering • Scalable Systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=950&lines=Building+Machine+Learning+solutions+end-to-end;From+data+pipelines+to+model+deployment;Python+%7C+Scikit-Learn+%7C+Snowflake+%7C+SQL;Learning+deeply.+Building+consistently." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=850&lines=Building+end-to-end+ML+solutions;From+data+to+deployment;Python+%7C+SQL+%7C+Snowflake+%7C+Scikit-Learn" />
 </p>
 
 ---
 
 ## About Me
 
-I’m a B.Tech graduate in Artificial Intelligence & Machine Learning with strong interest in building practical ML systems that solve real problems.
+B.Tech in Artificial Intelligence & Machine Learning.
 
-While working on Machine Learning projects, I realized that successful models depend on reliable data pipelines, scalable infrastructure, and clean deployment workflows.
+I enjoy building practical Machine Learning systems and the engineering required to run them in real environments — pipelines, deployment, data systems, and automation.
 
-That led me to expand into **MLOps, Data Engineering, Warehousing, and backend systems**.
-
-Today, I enjoy building complete solutions — from raw data to trained models to production deployment.
-
----
-
-## Core Areas
-
-- Machine Learning  
-- Applied Data Science  
-- MLOps Fundamentals  
-- Data Pipelines  
-- Model Deployment  
-- SQL & Databases  
-- Backend APIs  
-- Analytics Systems
+Focused on becoming a strong engineer with depth across ML + Data + Systems.
 
 ---
 
 ## Tech Stack
 
-### Languages
-`Python` `SQL` `PL/SQL` `C++`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,docker,azure,fastapi,vscode" />
+</p>
 
-### Machine Learning / Data Science
-`Scikit-Learn` `Pandas` `NumPy` `EDA` `Feature Engineering` `Supervised Learning` `Unsupervised Learning`
+<p align="center">
 
-### MLOps / Deployment
-`Docker` `GitHub Actions` `MLflow` `FastAPI` `CI/CD`
+**ML / DS:** Scikit-Learn • Pandas • NumPy • Feature Engineering • EDA  
+**Data:** SQL • PL/SQL • Snowflake • ETL/ELT • Warehousing  
+**MLOps:** MLflow • CI/CD • GitHub Actions  
+**Tools:** Jupyter • VS Code • Git
 
-### Data Engineering / Warehousing
-`Snowflake` `ETL/ELT` `Streams` `Tasks` `Stored Procedures` `Data Modeling`
-
-### Cloud / Tools
-`Azure (AZ-900)` `Git` `GitHub` `Jupyter Notebook` `VS Code`
+</p>
 
 ---
 
 ## Featured Projects
 
-### Network Security System (ML + MLOps)
-
-Built an end-to-end machine learning pipeline for network threat detection with preprocessing, feature engineering, model training, Dockerized deployment, CI/CD workflows, and monitoring.
-
-🔗 https://github.com/28Deepakpandey/Network-Security-System-MLOps-Project-with-ETL-
-
----
-
-### Recommendation System
-
-Built content-based recommendation engine using TF-IDF, cosine similarity, NLP preprocessing, and Top-N recommendations.
-
-🔗 https://github.com/28Deepakpandey/recommendation-system
-
----
-
-### Student Performance Prediction
-
-Predictive ML system focused on academic performance analysis using supervised learning techniques.
-
-🔗 https://github.com/28Deepakpandey/Student-Academic-Performance-Prediction-System-ML-Project-
-
----
-
-### Snowflake Sales Analytics Warehouse
-
-Designed scalable warehouse with layered architecture, incremental pipelines, and reporting-ready schemas.
-
-🔗 https://github.com/28Deepakpandey/Snowflake-data-warehouse-for-sales-analytics
-
----
-
-### OLTP Database Systems
-
-Transactional systems using Oracle SQL / PL-SQL with procedures, triggers, validations, and structured testing.
-
-🔗 https://github.com/28Deepakpandey/PL_SQL-LAB
+🔹 Network Security System with MLOps  
+🔹 Recommendation Engine  
+🔹 Student Performance Prediction  
+🔹 Snowflake Sales Analytics Warehouse  
+🔹 OLTP Systems with PL/SQL
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=28Deepakpandey&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Production ML Systems  
-- MLOps Best Practices  
-- Advanced Machine Learning  
-- Data Engineering at Scale  
-- Strong Software Engineering Fundamentals
-
----
-
-## Beyond Tech
-
-I enjoy novels and poetry. Writers like Premchand, Dinkar, and Dharmveer Bharti have influenced how I think about discipline, perspective, and depth.
-
-I believe consistent effort compounds.
+Machine Learning • MLOps • Backend Systems • Data Engineering
 
 ---
 
 ## Connect
 
-📧 deepakpandey28july@gmail.com
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/deepak-pandey28/
-
-🔗 GitHub  
-https://github.com/28Deepakpandey
+📧 deepakpandey28july@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/deepak-pandey28  
+🔗 GitHub: https://github.com/28Deepakpandey
