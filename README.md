@@ -12,41 +12,33 @@
 
 ---
 
-## Snapshot
-
 <div align="center">
 
-### Building systems from raw data to production-ready ML solutions
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:0d1117,50:1a3a5c,100:58a6ff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Machine+Learning+%7C+MLOps+%7C+Data+Engineering;Pipelines+%E2%86%92+Models+%E2%86%92+Deployment;Always+learning+new+tools+and+systems" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+ML+systems+that+actually+ship;Raw+data+%E2%86%92+training+%E2%86%92+deployment+%E2%86%92+impact;Python+%7C+XGBoost+%7C+Snowflake+%7C+FastAPI+%7C+Docker" />
 
 <br>
 
-### Focus Areas
+<blockquote>
+  Machine Learning, MLOps, and Data Engineering — focused on building systems that run reliably.
+</blockquote>
 
-`Machine Learning` `MLOps` `Data Engineering`
+<p>
+  <code>Machine Learning</code> &nbsp; <code>MLOps</code> &nbsp; <code>Data Engineering</code> &nbsp; <code>Python</code> &nbsp; <code>Snowflake</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Docker</code>
+</p>
 
-### Building
+<p>
+  B.Tech AI & ML @ TIT Bhopal (2026) • Open to ML / Data / MLOps roles
+</p>
 
-Raw Data → ETL Pipelines → Trained Models → APIs → Production Deployment
+<p>
+  Hindi literature • Reading English books • Podcasts • Long debugging sessions
+</p>
 
-### Core Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:58a6ff,50:1a3a5c,100:0d1117" width="100%" />
 
-`Python` `Scikit-learn` `XGBoost` `Snowflake` `SQL` `Docker` `FastAPI` `GitHub Actions`
-
-### Currently
-
-Final Year B.Tech AI & ML @ TIT Bhopal • Graduating 2026
-
-### Open To
-
-`ML Engineer` `Data Engineer` `MLOps Engineer`
-
-### Beyond Tech
-
-Hindi Literature • Reading English Books • Podcasts • Long Debugging Sessions
+</div>
 
 ---
 
