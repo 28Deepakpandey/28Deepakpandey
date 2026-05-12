@@ -18,73 +18,70 @@
 
 <table>
 <tr>
-<td align="center" width="170"><strong>Identity</strong></td>
-<td align="left">
+<td width="48%" valign="top">
 
-AI & ML Engineer focused on building systems that move from idea → production
+### Focus
+Machine Learning  
+MLOps  
+Data Engineering
+
+</td>
+
+<td width="48%" valign="top">
+
+### Building
+Raw Data → Pipelines  
+→ Trained Models  
+→ Production Systems
 
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>Focus Areas</strong></td>
-<td align="left">
+<td valign="top">
 
-Machine Learning • MLOps • Data Engineering • Analytics Systems
+### Core Stack
+Python • Scikit-learn • XGBoost  
+Snowflake • SQL • Docker  
+FastAPI • GitHub Actions
+
+</td>
+
+<td valign="top">
+
+### Currently
+Final Year B.Tech AI & ML  
+TIT Bhopal  
+Graduating 2026
 
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>What I Build</strong></td>
-<td align="left">
+<td valign="top">
 
-Raw Data → ETL Pipelines → Model Training → APIs → Cloud Deployment
+### Open To
+ML Engineer  
+Data Engineer  
+MLOps Engineer
+
+</td>
+
+<td valign="top">
+
+### Beyond Tech
+Literature Books  
+Watching Podcasts  
+Long Debugging Sessions  
+Learning New Systems
 
 </td>
 </tr>
-
-<tr>
-<td align="center"><strong>Core Stack</strong></td>
-<td align="left">
-
-Python • Scikit-learn • XGBoost • Snowflake • SQL • PL/SQL • MongoDB • FastAPI • Docker • GitHub Actions
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>Currently</strong></td>
-<td align="left">
-
-Final Year B.Tech AI & ML @ TIT Bhopal • Graduating 2026
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>Open To</strong></td>
-<td align="left">
-
-ML Engineer • Data Engineer • MLOps Engineer • Software Engineering Roles
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>Beyond Tech</strong></td>
-<td align="left">
-
-Hindi Literature • Problem Solving • Long Debugging Sessions • Constant Learning
-
-</td>
-</tr>
-
 </table>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+ML+systems+that+actually+ship;Turning+raw+data+into+reliable+products;Pipelines+%7C+Models+%7C+Deployment;Always+learning+the+next+tool+or+system" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ML+systems+that+actually+ship;From+raw+data+to+reliable+deployment;Always+learning+something+new" />
 
 </div>
 
