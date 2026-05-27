@@ -158,8 +158,6 @@ OLTP schema in Oracle PL/SQL with stored procedures, triggers, and ACID-complian
 [![GitHub Streak](https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
-
-
 ## `// 06 :: ACHIEVEMENTS`
 
 ```
