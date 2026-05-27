@@ -174,7 +174,7 @@ OLTP schema in Oracle PL/SQL with stored procedures, triggers, and ACID-complian
 [▸] Competitive Programming                  ::  700+ — LeetCode · GFG · Codeforces · CodeChef
 [▸] Skoolam NGO                              ::  Mentored 30+ students
 [▸] College Fest Coordination                ::  5,000+ attendees managed
-[▸] B.Tech AI & ML — TIT Bhopal             ::  CGPA 8.14 · Graduating 2026
+[▸] B.Tech AI & ML — TIT Bhopal              ::  CGPA 8.14 · Graduating 2026
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
