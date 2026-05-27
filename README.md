@@ -146,26 +146,18 @@ OLTP schema in Oracle PL/SQL with stored procedures, triggers, and ACID-complian
 ## `// 05 :: STATS`
 
 <div align="center">
+  
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=28Deepakpandey&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d14&title_color=ff2d78&icon_color=00f5ff&text_color=c0c0d0&ring_color=ff2d78"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f5ff&text_color=c0c0d0&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=28Deepakpandey&theme=radical&hide_border=true&background=0d0d14&stroke=ff2d78&ring=00f5ff&fire=ff2d78&currStreakLabel=00f5ff&sideLabels=c0c0d0&dates=888899)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=28Deepakpandey&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=28Deepakpandey&bg_color=0d0d14&color=00f5ff&line=ff2d78&point=f5e642&area=true&area_color=1a0a1f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=28Deepakpandey&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
 ## `// 06 :: ACHIEVEMENTS`
 
 ```
