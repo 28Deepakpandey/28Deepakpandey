@@ -183,6 +183,8 @@ OLTP schema in Oracle PL/SQL with stored procedures, triggers, and ACID-complian
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff2d78?style=for-the-badge&logo=linkedin&logoColor=0d0d14)](https://www.linkedin.com/in/deepak-pandey28)
 [![Email](https://img.shields.io/badge/EMAIL-00f5ff?style=for-the-badge&logo=gmail&logoColor=0d0d14)](mailto:deepakpandey28july@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-f5e642?style=for-the-badge&logo=github&logoColor=0d0d14)](https://github.com/28Deepakpandey)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-4287f5?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://28deepakpandey.github.io/deepak-portfolio/)
+
 
 </div>
 
